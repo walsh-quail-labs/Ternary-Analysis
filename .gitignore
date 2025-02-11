@@ -1,11 +1,9 @@
 # Ignore temporary data files
 data/*.csv
-data/*.xlsx
 data/*.tmp
 data/*.log
 
 # Ignore output files
-output/*.pdf
 output/*.png
 output/*.jpg
 output/*.json
